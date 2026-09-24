@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC Sport]]></title>
+        <description><![CDATA[BBC Sport - Liverpool]]></description>
+        <link>https://www.bbc.co.uk/sport/football/teams/liverpool</link>
+        <image>
+            <url>http://news.bbc.co.uk/sol/shared/img/sport_120x60.gif</url>
+            <title>BBC Sport</title>
+            <link>https://www.bbc.co.uk/sport/football/teams/liverpool</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 24 Sep 2026 12:30:03 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/sport/football/teams/liverpool/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Liverpool FC]]></title>
+            <description><![CDATA[Josh Williams on the form of Florian Wirtz]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pc414m?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pc414m#0</guid>
+            <pubDate>Wed, 23 Sep 2026 17:36:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pc416c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool FC]]></title>
+            <description><![CDATA[News and views on the Reds in two minutes. Weekdays, 5pm.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pc25mv?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pc25mv#0</guid>
+            <pubDate>Wed, 23 Sep 2026 14:25:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pc25r4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool FC]]></title>
+            <description><![CDATA[Peter Warburton talks about Liverpool midfielder Florian Wirtz]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pbyf10?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pbyf10#0</guid>
+            <pubDate>Tue, 22 Sep 2026 18:32:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pbyf25.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool FC]]></title>
+            <description><![CDATA[News and views on the Reds in two minutes. Weekdays, 5pm.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pbx0xc?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pbx0xc#0</guid>
+            <pubDate>Tue, 22 Sep 2026 13:39:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pbx0zt.jpg"/>
+        </item>
+    </channel>
+</rss>

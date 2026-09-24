@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.redglover.liverpool-news",
+  "name": "Liverpool News",
+  "version": "0.1.0",
+  "author": "redglover",
+  "license": "MIT",
+  "description": "Liver bird in the bar with the latest Liverpool FC headlines from Sky Sports, BBC Sport, the Guardian and the Liverpool Echo.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Liverpool News",
+    "description": "Latest Liverpool FC headlines from reputable outlets.",
+    "category": "Info",
+    "allowMultiple": false,
+    "defaultSection": "right",
+    "defaults": {
+      "refreshMinutes": 15
+    },
+    "schema": [
+      {
+        "key": "refreshMinutes",
+        "type": "integer",
+        "label": "Refresh interval (minutes)",
+        "min": 5,
+        "max": 240,
+        "step": 5,
+        "defaultValue": 15
+      }
+    ]
+  }
+}
